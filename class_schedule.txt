@@ -11,6 +11,7 @@ Per 5: Digital Electronics, Rm B12
 Per 6: AP Comp Sci, Rm B12
 
 Team member 1
+Name: Tyler Olson
 Per 1: Physiology, Rm 313
 Per 2: Statistics, Rm 107
 Per 3: AP Lang, Rm 125
